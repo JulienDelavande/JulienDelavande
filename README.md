@@ -12,6 +12,7 @@
 | **Databases**         | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
 | **CI/CD, DevOps & Cloud**    | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff) ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) |
 
-# Projects (hosted on my personnal kubernetes):
+# Some deployed Projects:
+## (hosted on my personnal kubernetes)
 - blog : https://delavande.fr
 - soccer bet optimizer : https://optibet.delavande.fr
